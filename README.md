@@ -15,3 +15,9 @@
 ## Key Insights for Presentation
 
 >For the presentation, I just focus on features that could affect the borrower APR, which are original loan amount, Prosper rating and income range. I started by showing the distribution of borrower APR. Then, I showed the relationship between APR vs. loan amount, as well as APR vs. Prosper rating. I also investigated the effect of rating on relationship between APR and loan amount, as well as the effect of loan amount on relationship between borrower APR and income range.
+
+## Tools
+* _Numpy_
+* _Pandas_
+* _Seaborn_
+* _MatplotLib_
